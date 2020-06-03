@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://rahulwaykos.site/posts/first-post/</loc>
+    <lastmod>2020-05-31T07:11:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rahulwaykos.site/posts/</loc>
+    <lastmod>2020-05-31T07:11:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rahulwaykos.site/</loc>
+    <lastmod>2020-05-31T07:11:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rahulwaykos.site/posts/second-post/</loc>
+    <lastmod>2020-05-31T07:11:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rahulwaykos.site/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rahulwaykos.site/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rahulwaykos.site/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rahulwaykos.site/tags/</loc>
+  </url>
+  
+</urlset>
